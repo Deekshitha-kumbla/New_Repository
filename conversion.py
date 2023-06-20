@@ -5,3 +5,6 @@ def celsius_to_fahrenheit(celsius):
 def celsius_to_kelvin(celsius):
     K = celsius + 273.15
     return K
+
+def kelvin_to_celsius(kelvin):
+    return C = kelvin - 273.15
